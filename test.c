@@ -1,6 +1,6 @@
 #include <stdio.h>
 int main() {
 	printf("second state\n");
-	printf("testing first commit\n");
+	printf("testing second commit\n");
 	return 0;
 }
